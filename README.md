@@ -23,5 +23,3 @@ My co-authors are welcome to use this repository to showcase their work to other
 Special thanks to Dr. Karina Caro for her supervision and guidance throughout this course. Her teaching and mentorship were instrumental in the successful completion of this data science project.
 
 Feel free to use this repository to explore our analysis and findings. The full paper (in Spanish) is included in the docs folder.
-
-Keywords: startup analysis, machine learning, statistical inference, python, data science
