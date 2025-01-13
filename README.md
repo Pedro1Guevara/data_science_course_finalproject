@@ -7,7 +7,7 @@ Using statistical analysis and machine learning techniques, we investigated:
 - Industry sector impact on success rates  
 - The influence of funding rounds on company longevity
 
-Project includes data preprocessing, exploratory analysis, statistical inference, and machine learning models (logistic regression and K-means clustering) implemented in Python. Our analysis determined that approximately $64 million USD in funding is needed for a 99% survival probability, among other key findings.
+Project includes data preprocessing, exploratory analysis, statistical inference, and machine learning models (logistic regression and K-means clustering) implemented in Python.
 
 ## Data Source
 The dataset used in this project is available at: https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase
